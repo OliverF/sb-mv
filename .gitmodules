@@ -1,0 +1,3 @@
+[submodule "moderator"]
+	path = moderator
+	url = https://github.com/Chessnut/moderator
